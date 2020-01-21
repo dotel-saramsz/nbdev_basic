@@ -5,5 +5,5 @@ __all__ = ['print_info']
 # Cell
 
 def print_info(about):
-    info = f'You just type {about} from the keyboard'
+    info = f'You just type {about} from your keyboard'
     return info
